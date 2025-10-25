@@ -1,23 +1,34 @@
-import React from 'react';
-import Home from '../pages/Home';
+import React from "react";
+import Footer from "../Components/Footer";
+import { Outlet } from "react-router";
+import Navbar from "../Components/Navbar";
 
 const MainLayout = () => {
-    return (
-        <div>
-            {/* Home */}
-            <header>
-                <Home></Home>
-            </header>
-            {/* main */}
-            <main>
+  return (
+    <div className="flex flex-col min-h-screen">
+      {/* Home */}
+      <header className="fixed  top-0 left-0 w-full">
+        <Navbar></Navbar>
+      </header>
+      {/* main */}
+      <main className='w-11/12 mx-auto my-3 mt-20  '>
 
+               {/* <aside className='col-span-3 sticky h-fit top-0'>
+                 <LeftAside></LeftAside>
+               </aside> */}
+               
+                    <Outlet></Outlet>
+              
+               {/* <aside className='col-span-3 sticky h-fit top-0'>
+                <RightAside></RightAside>
+               </aside> */}
             </main>
-            {/* footer */}
-            <footer>
-
-            </footer>
-        </div>
-    );
+      {/* footer */}
+      <footer className=" w-full">
+        <Footer></Footer>
+      </footer>
+    </div>
+  );
 };
 
 export default MainLayout;
