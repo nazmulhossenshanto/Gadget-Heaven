@@ -3,14 +3,14 @@ import { NavLink } from "react-router";
 
 const Navbar = () => {
   return (
-    <div className="w-11/12 mx-auto navbar flex justify-between items-center bg-base-100 shadow-sm">
+    <div className=" w-11/12 mx-auto navbar flex justify-between items-center bg-base-100 shadow-sm">
       {/* flex start */}
       <div className="">
         <a className="btn btn-ghost text-xl">Gadgets Heaven</a>
       </div>
       {/* flex mid */}
       <div className="flex justify-between items-center gap-5">
-        <NavLink to="/home">Home</NavLink>
+        <NavLink to="/">Home</NavLink>
         <NavLink to="/statistics">Statistics</NavLink>
         <NavLink to="/dashboard">Dashboard</NavLink>
       </div>
