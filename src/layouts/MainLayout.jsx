@@ -11,7 +11,7 @@ const MainLayout = () => {
         <Navbar></Navbar>
       </header>
       {/* main */}
-      <main className='w-11/12 mx-auto my-3  '>
+      <main className='w-11/12 mx-auto my-3'>
 
                {/* <aside className='col-span-3 sticky h-fit top-0'>
                  <LeftAside></LeftAside>

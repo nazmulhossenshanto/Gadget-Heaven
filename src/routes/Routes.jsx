@@ -2,6 +2,7 @@ import { createBrowserRouter } from "react-router";
 import MainLayout from "../layouts/MainLayout";
 import ErrorPage from "../Components/ErrorPage";
 import Home from "../pages/Home";
+import Statictics from "../pages/Statictics";
 
 const router = createBrowserRouter([
   {
@@ -16,7 +17,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/statistics",
-        element: <h1 className="mt-20">statistics</h1>,
+        element: <Statictics></Statictics>,
       },
       {
         path: "/dashboard",

@@ -1,0 +1,206 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "Apple MacBook Pro 16-inch (M3 Pro)",
+    "product_image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "Powerful laptop with the latest M3 Pro chip for professionals.",
+    "specification": [
+      "16-inch Liquid Retina XDR display",
+      "Apple M3 Pro chip",
+      "32GB Unified Memory",
+      "1TB SSD Storage",
+      "macOS Sonoma"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "2",
+    "product_title": "Dell XPS 15 OLED",
+    "product_image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd6",
+    "category": "Laptops",
+    "price": 1899,
+    "description": "Sleek and stunning display with professional-grade performance.",
+    "specification": [
+      "15.6-inch 3.5K OLED display",
+      "Intel Core i9 13th Gen",
+      "32GB RAM",
+      "1TB SSD",
+      "Windows 11 Pro"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "3",
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "2-in-1 convertible laptop with exceptional build quality.",
+    "specification": [
+      "13.5-inch OLED Touchscreen",
+      "Intel Core i7 12th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "360° hinge design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "4",
+    "product_title": "ASUS ROG Zephyrus G14",
+    "product_image": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9",
+    "category": "Laptops",
+    "price": 1799,
+    "description": "Ultimate portable gaming laptop with next-level graphics.",
+    "specification": [
+      "14-inch QHD display",
+      "AMD Ryzen 9 6900HS",
+      "RTX 4070 GPU",
+      "32GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "5",
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "product_image": "https://images.unsplash.com/photo-1587202372775-98926bb0b3f1",
+    "category": "Laptops",
+    "price": 1699,
+    "description": "Lightweight business laptop with outstanding durability.",
+    "specification": [
+      "14-inch WQXGA display",
+      "Intel Core i7 13th Gen",
+      "16GB RAM",
+      "1TB SSD",
+      "Fingerprint sensor"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "6",
+    "product_title": "Acer Swift X 14",
+    "product_image": "https://images.unsplash.com/photo-1612831455543-9f78a8f5b3aa",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "Compact and fast creator laptop for daily work and content creation.",
+    "specification": [
+      "14-inch IPS display",
+      "AMD Ryzen 7 7735HS",
+      "RTX 3050 GPU",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "7",
+    "product_title": "iPhone 15 Pro Max",
+    "product_image": "https://images.unsplash.com/photo-1695048130194-c7f3df8c2d8d",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the power of titanium and A17 Pro chip.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Pro Bionic chip",
+      "48MP Triple Camera",
+      "LiDAR Scanner",
+      "USB-C Charging"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "8",
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://images.unsplash.com/photo-1675865395425-5b7cbfbf04ce",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "A stunning design with an incredible camera system.",
+    "specification": [
+      "6.8-inch AMOLED QHD+ Display",
+      "Snapdragon 8 Gen 3",
+      "200MP Quad Camera",
+      "12GB RAM",
+      "5000mAh Battery"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "9",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://images.unsplash.com/photo-1695047064521-dc2a705fbb1f",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "AI-powered photography and clean Android experience.",
+    "specification": [
+      "6.7-inch LTPO OLED display",
+      "Google Tensor G3",
+      "50MP Triple Camera",
+      "Android 14",
+      "5000mAh Battery"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "10",
+    "product_title": "Apple Watch Ultra 2",
+    "product_image": "https://images.unsplash.com/photo-1661961113055-0de2a6a5c3f3",
+    "category": "Smartwatch",
+    "price": 799,
+    "description": "Built for adventure with precision dual-frequency GPS and rugged titanium design.",
+    "specification": [
+      "49mm Titanium Case",
+      "Always-On Retina Display",
+      "Water resistant to 100m",
+      "Battery life: 36 hours",
+      "watchOS 10"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "11",
+    "product_title": "Samsung Galaxy Watch 6 Classic",
+    "product_image": "https://images.unsplash.com/photo-1680706856507-c84807e2c136",
+    "category": "Smartwatch",
+    "price": 449,
+    "description": "Premium smartwatch with rotating bezel and fitness tracking.",
+    "specification": [
+      "1.5-inch Super AMOLED display",
+      "BioActive Sensor",
+      "Sleep tracking",
+      "5ATM + IP68 water resistance",
+      "Wear OS 4"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "12",
+    "product_title": "Fitbit Versa 4",
+    "product_image": "https://images.unsplash.com/photo-1598970434795-0c54fe7c0648",
+    "category": "Smartwatch",
+    "price": 229,
+    "description": "Lightweight smartwatch focused on health tracking and fitness goals.",
+    "specification": [
+      "1.58-inch AMOLED Display",
+      "Heart Rate & SpO2 Monitor",
+      "GPS + NFC",
+      "Water resistant up to 50m",
+      "Battery life: 6+ days"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
